@@ -1,0 +1,10 @@
+{
+  "name": "tween.js",
+  "description": "just for bower install",
+  "version": "0.1.2",
+  "keywords": [
+    "tween"
+  ],
+  "homepage": "https://github.com/sole",
+  "author": "Sole, https://github.com/sole"
+}
